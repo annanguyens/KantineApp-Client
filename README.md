@@ -1,1 +1,3 @@
 # KantineApp-Client
+
+JavaScript client 
